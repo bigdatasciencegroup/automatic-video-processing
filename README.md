@@ -18,8 +18,8 @@ Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSecOGSQEWH1KjPN68z
 This repo has been tested with Python 3.7 in an isolated conda environment so to get started, we suggest using conda.
 
 ```
-git clone https://github.com/Sieve-Data/Vid2Dataset.git
-cd Vid2Dataset
+https://github.com/Sieve-Data/automatic-video-processing.git
+cd automatic-video-processing
 conda create --name myenv python=3.7
 pip install requirements.txt
 ```
