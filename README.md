@@ -33,7 +33,7 @@ Running this script will start securely pushing your data to Sieve. \
 | Argument Name | Description | Default Value |
 | ------------- | ----------- | ------------- |
 | `video_push_interval` | How often video is pushed to Sieve (in seconds)   | 10 |
-| `video_feed_path`  | The location of your video stream as taken in by OpenCV. If you have a webcam plugged in, this is some number depending on how many cameras you have plugged in  | 0 |
+| `video_feed_path`  | The location of your video stream as taken in by OpenCV. If you have a webcam plugged in, this is some number depending on how many cameras you have plugged in. You can also specify a filepath to the location of a local video file (e.g. /home/my/path/my_video.mp4)  | 0 |
 
 ## Sieve Dashboard
 
