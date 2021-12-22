@@ -22,7 +22,7 @@ git clone https://github.com/Sieve-Data/automatic-video-processing.git
 cd automatic-video-processing
 conda create --name myenv python=3.7
 conda activate myenv
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run Script
