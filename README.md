@@ -8,7 +8,7 @@ Collecting visual data from a camera typically involves setting it up somewhere 
 
 1. Write script that sends data to Sieve
 2. Sieve processes video data efficiently and automatically
-3. Query and download the exact images you want using Sieve Dashboard
+3. Query and download the exact images and metadata you want using Sieve Dashboard
 
 # Getting Started
 ## Get a Sieve API Key
